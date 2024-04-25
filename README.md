@@ -14,3 +14,5 @@
 
 ## Now with Pathplanner!
 - Precise path mappings can be found in the deploy folder, and should be under a paths folder
+- Below is just a look at the pathplanner interface
+![Alt text](image-1.png)
